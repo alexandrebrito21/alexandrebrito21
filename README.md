@@ -1,3 +1,7 @@
+- name: GitHub metrics as SVG image
+  uses: lowlighter/metrics@v3.3
+
+
 ### Hi there 👋
 
 <!--
