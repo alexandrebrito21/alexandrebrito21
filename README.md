@@ -17,8 +17,4 @@
 <p align="center">
    <img src="https://img.icons8.com/color/48/000000/nodejs.png"/>
    <img src="https://download.logo.wine/logo/Ruby_on_Rails/Ruby_on_Rails-Logo.wine.png" width="72px"/>
-   <img src=
-   <img src=
-   <img src=
-   <img src=
 </p>         
