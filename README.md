@@ -1,6 +1,6 @@
 <h1 align="center"> <img src="https://img.icons8.com/nolan/45/programming.png"/> Hi Folks.</h1>
 
-<h2 align="center" >My Current Skills are : HTML5 , CSS3 Only yet. </h2>
+<h2 align="center" > INFORMATION : My Current Skills are : HTML5 , CSS3 Only yet. </h2>
 
 <h1 align="center"> <img src="https://github-readme-stats.vercel.app/api?username=alexandrebrito21&theme=tokyonight&show_icons=true"/> </h1>
 
